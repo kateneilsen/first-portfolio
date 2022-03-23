@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&family=Source+Sans+Pro&display=swap');
+
+/* Apply border-box to all elements */
+*{
+  box-sizing: border-box;
+}
+
+/* body properties */
+body{
+  background-color: #F8F5F2;
+  width: 500px;
+  margin: 0 auto;
+}
+/* article properties */
+article{
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+/* footer properties */
+footer{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  height: 30px;
+  padding: 10px;
+  text-align: center;
+}
+
+/* paragraph  properties */
+p{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+}
+
+/* heading 1 text styles */
+h1{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 46px;
+  color: #9B7B7E;
+}
+/* heading 2 text styles */
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+  background-color: #C4A8AA;
+}
+/* heading 3 text styles */
+h3{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 32px;
+}
+
+/* list properties */
+ol, ul{
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  font-size: 16px;
+  list-style-position: inside;
+  text-align: center;
+}
+/* header navigation links */
+.navlinks{
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+/* navigation and contact links */
+a{
+  padding: 20px;
+  color: black;
+}
+/* logo */
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  padding: 0px;
+}
