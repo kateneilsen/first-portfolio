@@ -73,6 +73,12 @@ a{
   padding: 20px;
   color: black;
 }
+/* text link rollovers */
+a:link    { color: black; }
+a:visited { color: #9FC4BD; }
+a:hover   { color: #5B7872; }
+a:active  { color: #C4A8AA; }
+
 /* logo */
 img{
   display: block;
